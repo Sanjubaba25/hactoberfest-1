@@ -1,0 +1,3 @@
+x = input
+s = x
+print(w = s + 3)
