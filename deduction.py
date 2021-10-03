@@ -3,3 +3,4 @@ s = x
 print(w = s + 3)
 print('he')
 print(hai)
+print(dei)
