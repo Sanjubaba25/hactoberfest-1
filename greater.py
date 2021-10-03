@@ -5,7 +5,4 @@ if x > y:
 else:
   print(y)
   print(hello)
-  print(hel)
-  print (*)
-  print(ms)
-  
+
