@@ -6,4 +6,5 @@ else:
   print(y)
   print(hello)
   print(hel)
+  print (*)
   
