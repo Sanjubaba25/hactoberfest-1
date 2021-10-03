@@ -4,4 +4,5 @@ if x > y:
   print(x)
   print(hello)
   print(hel)
+  print (*)
   
