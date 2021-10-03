@@ -7,4 +7,5 @@ else:
   print(hello)
   print(hel)
   print (*)
+  print(ms)
   
