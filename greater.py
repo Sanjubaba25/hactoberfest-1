@@ -5,5 +5,4 @@ if x > y:
 else:
   print(y)
   print(hello)
-  print(hai)
-  print(completed)
+
