@@ -5,6 +5,5 @@ x,y = y,x
 print(x)
 print(y)
 print(c)
-print(hello)
-print(this is y)
+
 
