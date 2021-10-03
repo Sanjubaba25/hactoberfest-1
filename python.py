@@ -7,3 +7,6 @@ print(b)
 print(a-b)
 print(a+b)
 print(a)
+print(y-a)
+print(y+a)
+
