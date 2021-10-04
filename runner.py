@@ -220,3 +220,8 @@ while True:
             ai.add_knowledge(move, nearby)
 
     pygame.display.flip()
+    print("last chance")
+    print("yes/no")
+    print("serious")
+    print("swap")
+    
