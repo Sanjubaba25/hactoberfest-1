@@ -3,3 +3,4 @@ with open('F:\Harshil Projects\Python\harshil.txt','r') as rf:
         for i in rf.readlines():
             x,y=i.split(',')
             wf.write(f'{x}\'s Salary is {y}')
+            print(x is the salary)
