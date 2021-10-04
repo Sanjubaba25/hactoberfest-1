@@ -10,4 +10,7 @@ Automatically removes duplicate proxies.
 Is asynchronous."""
 
 pywhatkit.text_to_handwriting(text,rgb=[0,0,255])
-print(hello world)
+print("excuseme")
+print("you are accepted")
+print("why god why")
+print("okay bye")
