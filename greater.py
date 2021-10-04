@@ -10,4 +10,9 @@ else:
   print(serene)
   print(anna)
   print(giji)
+  print(wall)
+  print(tree)
+  print(house)
+  print(sad)
+  print(bad)
   
