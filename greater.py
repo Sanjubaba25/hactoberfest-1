@@ -5,5 +5,9 @@ if x > y:
 else:
   print(y)
   print(hello)
-  print(amal jyithi)
+  print(amal jyothi)
   print(hai)
+  print(serene)
+  print(anna)
+  print(giji)
+  
