@@ -1,5 +1,5 @@
 #FIRST METHOD--------------
-"""str=input("enter a string")
+"""str=input("please write a string.")
 count=0
 for i in str:
     if i=='a' or i=='A' or i=='e' or i=='E' or i=='i' or i=='I' or i=='O' or i=='o'or i=='U' or i=='u':
@@ -7,7 +7,7 @@ for i in str:
 print(count)"""
 
 #SECOND METHOD---------------
-"""str=input("enter a string")
+"""str=input("Enter a string .only string will be accepted")
 count=0
 vowel="aeiou"
 for i in str:
